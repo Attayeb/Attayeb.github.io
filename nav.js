@@ -17,6 +17,9 @@ document.write(`
                         <a class="nav-link" href="/posts/cv.html">CV</a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" href="/tutorial.html">Tutorials</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="/contact.html">Contact</a>
                     </li>
                 </ul>
